@@ -17,8 +17,8 @@ That can mean elaborate equipment, grinders, and temperature controls. But tech 
 - Pour just enough water over the grounds to let them bloom (they get puffy). After 20-30 seconds continue the pour over. This will get the most flavor from your coffee.
 - Drink your freshly brewed coffee within 30 minutes of brewing. Don’t let coffee sit in a pot all day long. Make it as you need it.
 
-# Is coffee good or bad for your health?
 
+### IS COFFEE GOOD OR BAD FOR YOUR HEALTH?
 
 “*The overall evidence has been pretty convincing that coffee has been more healthful than harmful in terms of health outcomes,*” said **Frank Hu**, chair of the [Department of Nutrition](https://www.hsph.harvard.edu/nutrition/) at **Harvard T.H.** Chan School of Public Health.
 
