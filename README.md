@@ -17,15 +17,23 @@ That can mean elaborate equipment, grinders, and temperature controls. But tech 
 - Pour just enough water over the grounds to let them bloom (they get puffy). After 20-30 seconds continue the pour over. This will get the most flavor from your coffee.
 - Drink your freshly brewed coffee within 30 minutes of brewing. Don’t let coffee sit in a pot all day long. Make it as you need it.
 
+---
+### KINDS OF COFFEE BEVERAGES AND COMPOSITIONS
 
-### IS COFFEE GOOD OR BAD FOR YOUR HEALTH?
-|“*The overall evidence has been pretty convincing that coffee has been more healthful than harmful in terms of health outcomes,*” **said Frank Hu, chair of the [Department of Nutrition](https://www.hsph.harvard.edu/nutrition/) at **Harvard T.H.** Chan School of Public Health.**|
-| ------------- |
-| **For most people, moderate coffee consumption can be incorporated into a healthy diet.**|
-
-
+|kinds of Arabica coffee beans|Assago Coffee compositions (Coffee:Milk)|Koultoura Coffee compositions(Coffee:Milk)|
+| -------- |---|---|
+|  Latte   |1:5|2:3|
+|Cappuccino|1:2|1:2|
+|Flat White|2:5|2:5|
+|  Picollo |2:3|2:3|
+| Macchiato|1:1|2:2|
+| Americano|2:5|2:5|
 
 ---
+
+### IS COFFEE GOOD OR BAD FOR YOUR HEALTH?
+“*The overall evidence has been pretty convincing that coffee has been more **healthful** than harmful in terms of health outcomes,*” **said Frank Hu, chair of the [Department of Nutrition](https://www.hsph.harvard.edu/nutrition/) at **Harvard T.H.** Chan School of Public Health.**
+
 ### 12 HEALTH BENEFITS OF COFFEE
 
 - Coffee boosts your physical performance. 
