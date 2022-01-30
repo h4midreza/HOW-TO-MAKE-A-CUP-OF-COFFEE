@@ -21,9 +21,10 @@ That can mean elaborate equipment, grinders, and temperature controls. But tech 
 ### IS COFFEE GOOD OR BAD FOR YOUR HEALTH?
 “*The overall evidence has been pretty convincing that coffee has been more __healthful__ than harmful in terms of health outcomes,*” said **Frank Hu**, chair of the [Department of Nutrition](https://www.hsph.harvard.edu/nutrition/) at **Harvard T.H.** Chan School of Public Health.
 
-```
-For most people, moderate coffee consumption can be incorporated into a healthy diet.
-```
+| For most people, moderate coffee consumption can be incorporated into a healthy diet.|
+| ------------- |
+
+
 ---
 ### 12 HEALTH BENEFITS OF COFFEE
 
