@@ -11,7 +11,7 @@ Making the perfect cup of coffee can be as complicated or as easy as you like. W
 That can mean elaborate equipment, grinders, and temperature controls. But tech junkie or coffee connoisseur, you can still make an amazing cup of coffee with a cone and filter if you just follow some simple guidelines.
 
 - Use cold filtered water.
-- easure your coffee- use 1 tablespoons of ground coffee for each cup.
+- Measure your coffee- use 1 tablespoons of ground coffee for each cup.
 - Water temperature needs to be between 90 - 95 degree. If you boil water let it sit for 30 seconds before using it.
 - Rinse your filter with hot water before brewing.
 - Pour just enough water over the grounds to let them bloom (they get puffy). After 20-30 seconds continue the pour over. This will get the most flavor from your coffee.
@@ -19,9 +19,11 @@ That can mean elaborate equipment, grinders, and temperature controls. But tech 
 
 
 ### IS COFFEE GOOD OR BAD FOR YOUR HEALTH?
+“*The overall evidence has been pretty convincing that coffee has been more __healthful__ than harmful in terms of health outcomes,*” said **Frank Hu**, chair of the [Department of Nutrition](https://www.hsph.harvard.edu/nutrition/) at **Harvard T.H.** Chan School of Public Health.
 
-“*The overall evidence has been pretty convincing that coffee has been more healthful than harmful in terms of health outcomes,*” said **Frank Hu**, chair of the [Department of Nutrition](https://www.hsph.harvard.edu/nutrition/) at **Harvard T.H.** Chan School of Public Health.
-
+```
+For most people, moderate coffee consumption can be incorporated into a healthy diet.
+```
 ---
 ### 12 HEALTH BENEFITS OF COFFEE
 
